@@ -16,6 +16,8 @@ CLASS zfirst_test IMPLEMENTATION.
 
 out->write( |Hello world| ).
 
+out->write( |My name is paramesh| ).
+
 
   ENDMETHOD.
 
