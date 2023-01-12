@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD'
+define service ZAKP_SD_BP_PARAMS {
+  expose ZAKP_I_BP_PARAMS;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service defination'
+define service ZAKP_I_BP_SD {
+  expose ZAKP_I_BP;
+}
